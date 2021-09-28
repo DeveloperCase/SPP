@@ -1,5 +1,5 @@
 # Проекты
 
-- [Сlass diagram generator](class_diagram_generator.md) - Приложение для генерации диаграммы классов из проекта на C#
-- [TextCLI](TextCLI.md) - Библиотека для "красивого" вывода информации в консоли
-- [StudentProgrammingProgects](StudentProgrammingProgects.md) - написание текстов для StudentProgrammingProgects
+- [Сlass diagram generator](Projects/Class_diagram_generator.md) - Приложение для генерации диаграммы классов из проекта на C#
+- [TextCLI](Projects/TextCLI.md) - Библиотека для "красивого" вывода информации в консоли
+- [StudentProgrammingProgects](Projects/StudentProgrammingProgects.md) - написание текстов для StudentProgrammingProgects
