@@ -4,7 +4,7 @@
 Программа для генерации диаграммы классов из C# проекта
 
 ## Репозиторий проекта
-
+https://github.com/StudentProgrammingProjects/ClassDiagramGenerator
 
 ## Языки программирования и технологии
 C#
