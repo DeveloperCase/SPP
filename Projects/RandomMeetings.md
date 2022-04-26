@@ -22,4 +22,3 @@
 
 - [Telegram](https://t.me/anst_foto)
 - [GitHub](https://github.com/anst-foto)
-
