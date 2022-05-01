@@ -1,19 +1,21 @@
 # Class diagram generator
 
-## Краткое описание
+## Краткое описание:
+`
 Программа для генерации диаграммы классов из C# проекта
-
-## Репозиторий проекта
+`
+## Репозиторий проекта:
 https://github.com/StudentProgrammingProjects/ClassDiagramGenerator
 
-## Языки программирования и технологии
+## Языки программирования и технологии:
+`
 C#
-
-## Команда
+`
+## Команда:
+`
 C# developer
-
-## Автор
+`
+## Автор:
 Старинин Андрей
-
 - [Telegram](https://t.me/anst_foto)
 - [GitHub](https://github.com/anst-foto)
